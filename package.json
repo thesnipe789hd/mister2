@@ -12,7 +12,7 @@
   },
   "build": {
     "appId": "com.thesnipe789hd.mister2",
-    "productName": "mister2",
+    "productName": "My Minecraft Launcher",
     "directories": {
       "output": "dist"
     },
